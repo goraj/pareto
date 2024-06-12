@@ -4967,6 +4967,13 @@ use [cppcheck](http://cppcheck.sourceforge.net), and [clang-format](https://clan
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/goraj">
+            <img src="https://avatars.githubusercontent.com/u/28098212?v=4" width="100;" alt="goraj"/>
+            <br />
+            <sub><b>Jacob</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alandefreitas">
             <img src="https://avatars.githubusercontent.com/u/5369819?v=4" width="100;" alt="alandefreitas"/>
             <br />
